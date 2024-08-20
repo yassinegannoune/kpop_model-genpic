@@ -26,7 +26,7 @@ This repository contains the fine-tuned model and necessary files to generate im
 
 2. **Fine-Tuning Your Own Model**:
    - If you prefer to create your own model with different characters or images, you can start by loading the base model from Hugging Face (`black-forest-labs/FLUX.1-schnell` or `black-forest-labs/FLUX.1-Dev`).
-   - Fine-tune the model using your own dataset. For example, in this case, the model was fine-tuned using a collection of images of an Asian idol and some of my own.
+   - Fine-tune the model using your own dataset. For example, in this case, the model was fine-tuned using a collection of images of an Asian idol and some of my own even it not exactly how i look but it captures some aspects like Beards,glasses, all what you need to take into consideration is the quality of data: **Garbage in,Garbage Out**.
 
 ## Notes
 
