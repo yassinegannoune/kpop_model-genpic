@@ -1,27 +1,7 @@
 # KPop Model Image Generator
 ![out-0](https://github.com/user-attachments/assets/e7be19a3-fa68-47bd-a242-7c87ef45749c)
 
-
-
-
-
-
-
- _                        ___                            
-| | ___ __   ___  _ __   |_ _|_ __ ___   __ _  ___ _ __  
-| |/ / '_ \ / _ \| '_ \   | || '_ ` _ \ / _` |/ _ \ '_ \ 
-|   <| |_) | (_) | |_) |  | || | | | | | (_| |  __/ | | |      
-|_|\_\ .__/ \___/| .__/  |___|_| |_| |_|\__, |\___|_| |_|
-     |_|         |_|                    |___/            
-
-
-
-
-
-
-
-
-     
+ 
 This repository contains the fine-tuned model and necessary files to generate images of yourself with a specific idol using a pretrained model from the FLUX series. The model was fine-tuned for a specific use case where you provide images of yourself and your idol, and the model generates high-quality images featuring both of you.
 
 ## Model Details
