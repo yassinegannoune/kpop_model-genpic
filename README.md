@@ -21,11 +21,12 @@ This repository contains the fine-tuned model and necessary files to generate im
 
 ## Usage
 
-1. **Selecting the Model**: Choose between the commercial (`FLUX.1-schnell`) or non-commercial (`FLUX.1-Dev`) version of the FLUX model based on your usage needs.
+1. **Using the Pre-Trained Model**: 
+   - If you want to generate images with the current model, simply load the model weights provided in `flux_train_replicate.safetensors`. Once loaded, the model is ready to generate images without any additional training required.
 
-2. **Training Data**: Ensure you have a dataset with approximately 30 images of yourself and the idol. More images are recommended for better results.
-
-3. **Running Inference**: Use the provided files to generate new images featuring yourself with the idol.
+2. **Fine-Tuning Your Own Model**:
+   - If you prefer to create your own model with different characters or images, you can start by loading the base model from Hugging Face (`black-forest-labs/FLUX.1-schnell` or `black-forest-labs/FLUX.1-Dev`).
+   - Fine-tune the model using your own dataset. For example, in this case, the model was fine-tuned using a collection of images of an Asian idol and some of my own.
 
 ## Notes
 
